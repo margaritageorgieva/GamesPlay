@@ -20,7 +20,7 @@ App provides general information, ratings, pictures, comments and categories for
 - HTML5
 - CSS3
                 
-Full documentations for REST server, Lit and Page are available at [SoftUni Practice Server](https://github.com/softuni-practice-server/softuni-practice-server#readme)    , [Lit.dev](https://lit.dev/) and [Page](https://www.npmjs.com/package/page)    
+Full documentation for REST server, Lit and Page are available at [SoftUni Practice Server](https://github.com/softuni-practice-server/softuni-practice-server#readme)    , [lit.dev](https://lit.dev/) and [page](https://www.npmjs.com/package/page)    
 
 ## 🔐 Permissions:
 

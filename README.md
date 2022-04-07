@@ -13,16 +13,14 @@ App provides general information, ratings, pictures, comments and categories for
 - Search game by category
 
 ## 🛠 Built with:
-- Educational REST service
+- Educational REST server
 - JavaScript
 - Lit-html
 - Page.js
 - HTML5
 - CSS3
-
-
-Detailed information for [SoftUni Practice Server](https://github.com/softuni-practice-server/softuni-practice-server#readme)                     
-Full documentations for Lit and Page are available at [lit.dev](https://lit.dev/) and [page](https://www.npmjs.com/package/page)    
+                
+Full documentations for REST server, Lit and Page are available at [SoftUni Practice Server](https://github.com/softuni-practice-server/softuni-practice-server#readme)    , [Lit.dev](https://lit.dev/) and [Page](https://www.npmjs.com/package/page)    
 
 ## 🔐 Permissions:
 

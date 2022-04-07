@@ -18,3 +18,19 @@ App provides general information, ratings, pictures, comments and categories for
 - Page.js
 - HTML5
 - CSS3
+
+## 🔐 Permissions:
+
+| Permissions    | Guest    | Logged in User    |
+| ------------- | ------------- | -------- |
+| Home page         | ✔️       |  ✔️ |
+| All games         | ✔️        | ✔️ |
+| Details page         | ✔️        | ✔️ |
+| Search page         | ✔️        | ✔️ |
+| Login / Register        | ✔️        | ❌ |
+| Create game        | ❌        | ✔️ |
+| Edit / Delete        | ❌        | ✔️ |
+| View all comments       | ✔️        | ✔️ |
+| Add comment       | ❌        | ✔️ |
+| Like button         | ✔️        | ✔️ |
+

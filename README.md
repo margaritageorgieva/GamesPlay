@@ -38,7 +38,12 @@ App provides general information, ratings, pictures, comments and categories for
 ## Public Pages:
 
 #### Home page
-This is the landing page of the application, from here you can view the latest three Games
+This is the landing page of the application, from here you can view the latest three Games.
+
+#### All games
+In this page, all added games are displayed, sorted by their category.                                                                                                
+There is a like button and a button that takes you to the game details page.
+
 
 - Detailed information for [SoftUni Practice Server](https://github.com/softuni-practice-server/softuni-practice-server#readme)
 - Full documentations for Lit and Page are available at [lit.dev](https://lit.dev/) and [page](https://www.npmjs.com/package/page)       

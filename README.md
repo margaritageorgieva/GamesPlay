@@ -50,4 +50,6 @@ There is a like button and a button that takes you to the game details page.
 
 #### Details page
 After clicking 'Details' button, you will be redirected to the details page. Here you can view all the information about the game (such as picture, comments, category, description, etc.). Only the game creator can edit or delete it. All users see existing comments on this page. Once logged in, you will also be able to add comments.
-   
+
+#### Search page
+The search page allows users to filter games by their category. A list of all games whose category matches the one entered in the search box is displayed. If there is no match, displayed the message 'There are no games in this category'.                                                                                            

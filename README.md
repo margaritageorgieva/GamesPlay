@@ -41,7 +41,7 @@ Full documentations for Lit and Page are available at [lit.dev](https://lit.dev/
 
 ## Public Pages:
 
-#### Home page
+#### Home page 
 This is the landing page of the application, from here you can view the latest three Games.
 
 #### All games
@@ -49,6 +49,5 @@ In this page, all added games are displayed, sorted by their category.
 There is a like button and a button that takes you to the game details page.
 
 #### Details page
-Here is all the information about the game (such as picture, comments, description, etc.).                       
-Only the game creator can edit or delete it. All users  see existing comments, but only logged in users can add new.
+After clicking 'Details' button, you will be redirected to the details game page. Here you can view all the information about the game (such as picture, comments, category, description, etc.). Only the game creator can edit or delete it. All users see existing comments on this page. Once logged in, you will also be able to add comments.
    

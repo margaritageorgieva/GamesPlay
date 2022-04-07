@@ -35,3 +35,5 @@ App provides general information, ratings, pictures, comments and categories for
 | Add comment       | ❌        | ✔️ |
 | Like button         | ✔️        | ✔️ |
 
+- Detailed information for [SoftUni Practice Server](https://github.com/softuni-practice-server/softuni-practice-server#readme)
+- Full documentations for Lit and Page are available at [lit.dev](https://lit.dev/) and [page](https://www.npmjs.com/package/page)       

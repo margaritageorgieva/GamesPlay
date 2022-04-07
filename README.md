@@ -37,7 +37,7 @@ Full documentation for REST server, Lit and Page are available at [SoftUni Pract
 | Add comment       | ❌        | ✔️ |
 | Like button         | ✔️        | ✔️ |
 
-## Public Pages:
+## Pages:
 
 #### Home page 
 This is the landing page of the application, from here you can view the latest three Games.
@@ -51,6 +51,10 @@ After clicking 'Details' button, you will be redirected to the details page. Her
 
 #### Search page
 The search page allows users to filter games by their category. A list of all games whose category matches the one entered in the search box is displayed.
-If there is no match, displayed the message 'There are no games in this category'.                                                                                            
+If there is no match, displayed the message 'There are no games in this category'.   
+
+#### Create page
+This page contains a form through which logged-in users can create a new game. After successfully creating a game, you will be redirected to the home page. The list of latest games will be updated with your newly created game.
+
 #### Login and Register pages
 Here you can register or log in if you already have an account.

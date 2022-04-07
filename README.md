@@ -49,5 +49,5 @@ In this page, all added games are displayed, sorted by their category.
 There is a like button and a button that takes you to the game details page.
 
 #### Details page
-After clicking 'Details' button, you will be redirected to the details game page. Here you can view all the information about the game (such as picture, comments, category, description, etc.). Only the game creator can edit or delete it. All users see existing comments on this page. Once logged in, you will also be able to add comments.
+After clicking 'Details' button, you will be redirected to the details page. Here you can view all the information about the game (such as picture, comments, category, description, etc.). Only the game creator can edit or delete it. All users see existing comments on this page. Once logged in, you will also be able to add comments.
    

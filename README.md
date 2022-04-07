@@ -61,6 +61,13 @@ Here you can register or log in if you already have an account.
 
 ## 📸 Screenshots:
 
+<img src="https://user-images.githubusercontent.com/44364396/162272812-28d51fdf-606a-4038-81dc-108448134576.png" width=80% height=40%>
+
+<img src="https://user-images.githubusercontent.com/44364396/162274267-6bdd9d9f-0c81-4a7a-bb3f-376bcd2d7295.png" width=80% height=40%>
+<img src="https://user-images.githubusercontent.com/44364396/162274947-67efa16e-2641-4b20-a2a8-01e404ed6f4d.png" width=80% height=40%>
+
+
+
 
 ## 🚀 Execution:
 - run npm install while at the root folder of the project for lit-html, page.js and http-server install.

@@ -52,3 +52,5 @@ After clicking 'Details' button, you will be redirected to the details page. Her
 #### Search page
 The search page allows users to filter games by their category. A list of all games whose category matches the one entered in the search box is displayed.
 If there is no match, displayed the message 'There are no games in this category'.                                                                                            
+#### Login and Register pages
+Here you can register or log in if you already have an account.

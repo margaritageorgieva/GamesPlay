@@ -58,3 +58,6 @@ This page contains a form through which logged-in users can create a new game. A
 
 #### Login and Register pages
 Here you can register or log in if you already have an account.
+
+## 🚀 Execution:
+- run npm install while at the root folder of the project for lit-html, page.js and http-server install.

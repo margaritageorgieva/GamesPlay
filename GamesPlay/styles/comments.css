@@ -1,0 +1,85 @@
+.create-comment>.form>textarea {
+    resize: none;
+    width: 80%;
+    margin-top: 22px;
+    margin-bottom: 28px;
+    padding: 10px;
+}
+
+.details-comments {
+    display: table-cell;
+}
+
+.details-comments h2 {
+    padding-left: 60px;
+}
+
+.no-comment {
+    padding-left: 45px;
+    margin-bottom: 10px;
+    color: #6c6c6c;
+    font-size: 17px;
+}
+
+
+.create-comment {
+    margin-top: 60px;
+    position: relative;
+    text-align: center;
+    height: auto;
+    border-radius: 10px;
+    padding: 40px;
+    box-sizing: border-box;
+    background: #424363;
+
+}
+
+.create-comment>label {
+    color: white;
+    font-size: 30px;
+    letter-spacing: 1.3px;
+    text-align: center;
+    font-weight: 700;
+    line-height: normal;
+    text-shadow: -1px 1.2px 1px rgb(179 177 177);
+    font-family: "Agency FB";
+
+}
+
+.info-section>.details-comments li {
+    width: 400px;
+    display: inline-block;
+    position: static;
+    margin: 20px auto 25px auto;
+    box-shadow: 8px 8px 8px 0 rgba(0, 0, 0, 0.2), 12px 12px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 16px;
+    margin-left: 42px;
+    background: #6f5d9c;
+    color: white;
+
+}
+
+.comment p {
+    padding: 12px 12px 12px 12px;
+    font-size: 20px;
+}
+
+.comment p #comment-content {
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#commentBtn {
+    font-family: "Agency FB";
+    border-radius: 10px;
+    padding: 5px 20px;
+    font-size: 22px;
+    letter-spacing: 1px;
+    margin-top: 10px;
+}
+
+.create-comment>.button:hover {
+    background-color: #41425c;
+    color: white;
+    cursor: pointer;
+}

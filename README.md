@@ -61,3 +61,5 @@ Here you can register or log in if you already have an account.
 
 ## 🚀 Execution:
 - run npm install while at the root folder of the project for lit-html, page.js and http-server install.
+- run node server.js while at the server folder in the terminal to run the REST server.
+- npm run start runs the application on port 3000. Open http://localhost:3000 to view it in the browser.

@@ -13,6 +13,7 @@ App provides general information, ratings, pictures, comments and categories for
 - Search game by category
 
 ## 🛠 Built with:
+- Educational REST service
 - JavaScript
 - Lit-html
 - Page.js

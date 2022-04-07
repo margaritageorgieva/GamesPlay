@@ -37,7 +37,7 @@ Full documentation for REST server, Lit and Page are available at [SoftUni Pract
 | Add comment       | ❌        | ✔️ |
 | Like button         | ✔️        | ✔️ |
 
-## Pages:
+## 📃 Pages:
 
 #### Home page 
 This is the landing page of the application, from here you can view the latest three Games.

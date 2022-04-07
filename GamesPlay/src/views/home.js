@@ -21,7 +21,8 @@ const template = (items) => html`
                 </div>
                 <h3>${item.title}</h3>
                 <div class="rating">
-                  <span>☆</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span>
+                  <span>☆</span><span>☆</span><span>☆</span><span>☆</span
+                  ><span>☆</span>
                 </div>
                 <div class="data-buttons">
                   <a href="/details/${item._id}" class="btn details-btn"
@@ -39,5 +40,7 @@ const root = document.querySelector("#main-content");
 
 export async function homePage() {
   let items = await getAll();
+  items = items.splice(0, 3);
+
   render(template(items), root);
 }

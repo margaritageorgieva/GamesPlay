@@ -63,13 +63,12 @@ Here you can register or log in if you already have an account.
 <img src="https://user-images.githubusercontent.com/44364396/162628347-df6deed6-a720-4e48-88a4-d90eb8858a48.png" width=80% height=40%>
 <img src="https://user-images.githubusercontent.com/44364396/162272812-28d51fdf-606a-4038-81dc-108448134576.png" width=80% height=40%>
 <img src="https://user-images.githubusercontent.com/44364396/162628607-82a91aa8-1ec8-4ab7-8b5e-c5552d7cfc04.png" width=80% height=40%>
-
 <img src="https://user-images.githubusercontent.com/44364396/162274947-67efa16e-2641-4b20-a2a8-01e404ed6f4d.png" width=80% height=40%>
 <img src="https://user-images.githubusercontent.com/44364396/162275309-0b9651a9-af65-4314-882b-35df7d44b0ae.png" width=80% height=40%>
 
 
 
 ## 🚀 Execution:
-- run npm install while at the root folder of the project for lit-html, page.js and http-server install.
-- npm run server runs the REST server.
-- npm run start runs the application on port 3000. Open http://localhost:3000 to view it in the browser.
+- **run npm install** while at the root folder of the project for lit-html, page.js and http-server install.
+- **npm run server** runs the REST server.
+- **npm run start** runs the application on port 3000. Open http://localhost:3000 to view it in the browser.

@@ -6,6 +6,7 @@ App provides general information, ratings, pictures, comments and categories for
 ## 🎮 Features:
 - Registration and Login
 - Different access  for guests and logged in users
+- Dynamic fetching data from REST server
 - List of all games, sorted by category
 - Detailed information for each game
 - Ability to edit, delete or add a new game
